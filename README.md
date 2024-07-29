@@ -1,6 +1,9 @@
 Objective:-
 This dashboard provides a comprehensive overview of hospital operations, including patient care, financial performance, and resource management, to support data-driven decision-making. This dashboard is designed to enhance operational transparency, improve patient care, and facilitate strategic planning through dynamic data visualization and analysis.
 
+Technology Used:-
+I am Utilizing the Slicer for the filter and easy to understand. Use Cards and Charts for better understand. There have map also include to shoe the State. 
+
 Target Users:-
 Designed for hospital administrators, department heads, and financial officers to streamline operational management and improve patient outcomes.
 
